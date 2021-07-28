@@ -1,0 +1,22 @@
+.btn-honda{
+    color: white;
+    background-color: #E76F51;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.text-custom-red{
+    color: #E76F51;
+}
+.img-gray{
+    filter: grayscale(100%);
+}
+.star-rating{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    font-size: 34px;
+    color: #E76F51;   
+}
+.text-custom-decoration{
+    text-decoration: none;
+}
