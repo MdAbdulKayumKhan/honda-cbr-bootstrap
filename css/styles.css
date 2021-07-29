@@ -1,3 +1,4 @@
+/* google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 body{
     font-family: 'Poppins', sans-serif;
@@ -18,7 +19,7 @@ body{
     list-style: none;
     display: flex;
     justify-content: center;
-    font-size: 34px;
+    font-size: 24px;
     color: #E76F51;   
 }
 .text-custom-decoration{
